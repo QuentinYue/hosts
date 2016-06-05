@@ -51,7 +51,6 @@
 
 
 【完】
-
 [rawhosts]:https://raw.githubusercontent.com/linuxcer/hosts/master/hosts
 [issue]:https://github.com/linuxcer/hosts/issues
 [license]:https://github.com/linuxcer/hosts/blob/master/LICENSE
