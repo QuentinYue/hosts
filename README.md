@@ -1,3 +1,4 @@
+
 <center>
 ![img][image]
 </center>
@@ -17,7 +18,6 @@
   - 启用禁用飞行模式
   - 重启系统
 
-----------
 
 
 ## 2. 配置方式
@@ -42,13 +42,18 @@
 ### 2.5 iOS 配置
 将 [hosts][rawhosts] 全部内容复制到 `/etc/hosts`中并保存。
 
-----------
 
 
 ## 3. 更多
-如有问题，请开 [Issue][issue] 反馈。
+chrome启动遇到`ERR_CONNECTION_RESET`问题，解决方案[点这里][blog1]。
+如有其他问题，请开 [Issue][issue] 反馈。
 
-----------
 ## 4. LICENSE
 - 本项目的所有代码除另有说明外，均按照 [MIT License][license] 发布。
 - 请在遵守当地相关法律法规的前提下使用本项目。
+
+[rawhosts]:https://raw.githubusercontent.com/linuxcer/hosts/master/hosts
+[issue]:https://github.com/linuxcer/hosts/issues
+[license]:https://github.com/linuxcer/hosts/blob/master/LICENSE
+[image]:https://github.com/linuxcer/hosts/blob/master/hosts.png?raw=true
+[blog1]:https://github.com/linuxcer/hosts/wiki/Chrome%E5%BC%BA%E5%88%B6http%E5%AE%9A%E5%90%91%E5%88%B0https%E6%96%B9%E6%B3%95
