@@ -45,7 +45,7 @@
 
 
 ## 3. 更多
-chrome启动遇到`ERR_CONNECTION_RESET`问题，解决方案[点这里][blog1]。
+chrome启动遇到"无法访问该网站"，或`ERR_CONNECTION_RESET`问题，解决方案[点这里][blog1]。
 如有其他问题，请开 [Issue][issue] 反馈。
 
 ## 4. LICENSE
