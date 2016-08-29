@@ -9,7 +9,7 @@
 
 
 ## 1. 更新 hosts
-* `hosts`，`hosts-a`和`hosts-b`是三个不同版本配置，主要区别在于`google.com`映射的IP地址不同，**配置时只需选取其中任一文件使用即可**，如果`hosts`文件不行，请使用`host-a`或`hosts-b`。
+* `hosts`，`hosts-a`和`hosts-b`是三个不同版本配置，主要区别在于`google.com`映射的IP地址不同，**配置时只需选取其中任一文件使用即可**，如果`hosts`文件不行，请使用`hosts-a`或`hosts-b`。
 
 * 下面介绍的操作均可能覆盖现有 hosts ，进行操作前请先确认是否需要备份。
 
